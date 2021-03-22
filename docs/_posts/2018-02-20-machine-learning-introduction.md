@@ -2,7 +2,6 @@
 layout: post
 title: Introduction to Machine Learning Concepts
 comments: true
-permalink: pretty
 ---
 
 ## The Problem Setting

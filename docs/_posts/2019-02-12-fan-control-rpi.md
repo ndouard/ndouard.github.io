@@ -2,7 +2,6 @@
 layout: post
 title: Raspberry Pi PWM Fan Control
 comments: true
-permalink: pretty
 ---
 
 
