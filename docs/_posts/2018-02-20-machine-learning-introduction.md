@@ -4,10 +4,6 @@ title: Introduction to Machine Learning Concepts
 comments: true
 ---
 
-<div class="message">
-  This is a work in progress. More will be added soon!
-</div>
-
 ## The Problem Setting
 
 A typical learning problem considers a set of unknown data samples and tries to predict the data's properties. If each sample is more than a single number (a multi-dimensional entry aka multivariate data), it is said to have several <em>attributes</em> or <em>features</em>.
