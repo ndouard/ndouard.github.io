@@ -4,7 +4,6 @@ title: Raspberry Pi PWM Fan Control
 comments: true
 ---
 
-
 <div class="message">
   Resource for this project is available <a href="/public/assets/fan-control-rpi/fan-control.rar">here</a>.
 </div>
