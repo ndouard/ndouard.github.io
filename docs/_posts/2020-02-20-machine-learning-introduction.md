@@ -25,7 +25,3 @@ In regression cases, the desired output consists of one or more continuous varia
 ## Unsupervised Learning
 
 In unsupervised learning, the training data consists of a set of input vectors `x` without any corresponding target values. The goal in such problems may be to discover groups of similar examples within the data &mdash; this is known as <em>clustering</em>. Another objective could be to determine the distribution of data within the input space, known as density estimation, or to project the data from a high-dimensional space down to two or three dimensions for visualization.
-
------
-
-Want to see something else added? Feel free to contact GalacticBox at [mygalacticbox@gmail.com](mailto:mygalacticbox@gmail.com) or leave a comment.
