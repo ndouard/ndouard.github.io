@@ -21,7 +21,7 @@
 title: GalacticBox
 email: nicolasdouard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal blog! I'm a tech enthusiast with strong interest in data science and computer vision. I thrive turning raw data into useful information. In my free time, I like to build robots.
+  Welcome to my personal blog! I'm a tech enthusiast passionate about data science and computer vision. I thrive turning raw data into useful information. In my free time, I like to build robots.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://galacticbox.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
